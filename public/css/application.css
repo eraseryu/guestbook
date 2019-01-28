@@ -1,0 +1,14 @@
+body {
+    display: none;
+}
+nav {
+    margin-bottom: 20px;
+}
+section {
+    border-bottom: 1px solid #716b7a;
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+}
+a:hover {
+    text-decoration: none !important;
+}
